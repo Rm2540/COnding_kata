@@ -1,2 +1,2 @@
-# COnding_kata
+# Coding_kata
 Coding challenges
